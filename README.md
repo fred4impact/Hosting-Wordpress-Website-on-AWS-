@@ -122,9 +122,9 @@ Route53 and Domain Setup
     Tools: AWS Management Console, AWS CLI
     Documentation: AWS official documentation, WordPress installation guides
 
-## What i learnt
+## Knowledge Gained
 
-    Gained hands-on experience with AWS infrastructure setup and management.
-    Learned to configure network components for a secure and scalable web application.
-    Acquired skills in automating WordPress deployment on a cloud environment.
-    Enhanced understanding of cloud best practices and high availability architectures.
+    - Gained hands-on experience with AWS infrastructure setup and management.
+    - Learned to configure network components for a secure and scalable web application.
+    - Acquired skills in automating WordPress deployment on a cloud environment.
+    - Enhanced understanding of cloud best practices and high availability architectures.
