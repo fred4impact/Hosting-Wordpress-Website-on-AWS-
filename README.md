@@ -4,9 +4,9 @@ Hosting a wrodpress site on 3 Tire AWS Architecture
 ![Alt text](/Hosting-worpress-on-aws-infra.png)
 
 # WordPress on AWS Project
-## Overview
+ Overview
 
-## This project focuses on establishing the foundational network infrastructure necessary for hosting a WordPress website on Amazon Web Services (AWS). It encompasses setting up a Virtual Private Cloud (VPC), configuring security groups, setting up EC2 instances, and installing WordPress, ensuring a robust and scalable environment. Below is a detailed breakdown of the project, the resources utilized, and the key learnings derived from this experience.
+This project focuses on establishing the foundational network infrastructure necessary for hosting a WordPress website on Amazon Web Services (AWS). It encompasses setting up a Virtual Private Cloud (VPC), configuring security groups, setting up EC2 instances, and installing WordPress, ensuring a robust and scalable environment. Below is a detailed breakdown of the project, the resources utilized, and the key learnings derived from this experience.
 Prerequisites
 
 ## Before starting, ensure you have:
